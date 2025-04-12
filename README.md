@@ -24,4 +24,4 @@ No frameworks, no libraries — just clean and basic code.
 This project was built purely for learning purposes — focusing on the fundamentals of how a calculator works using basic DOM manipulation and logic.
 
 ## ✍️ Built By
-**Ismail**
+**Ismail khamal arbit**
